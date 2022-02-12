@@ -1,6 +1,6 @@
 # Olá meu nome é Victor Miranda Balduino 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como Full Stack
 - 🌱 Estudando: Angular, Typescript, Laravel
 - 🥅 Próximos estudos: Mongo DB e React Native
 - ⭐ Atualmente trabalho: <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
