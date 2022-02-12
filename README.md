@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando: React JS, PHP e Mongo DB
 - 🥅 Próximos estudos: Typescript e React Native
+- ⭐ Atualmente trabalho: <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
 
 
  ## ⭐ Meus status no Github
