@@ -1,9 +1,9 @@
 # Olá meu nome é Victor Miranda Balduino 👋
 
 - 🔭 Hoje trabalho como Full Stack
+- ⭐ Atualmente trabalho: <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
 - 🌱 Estudando: Angular, Typescript, Laravel
 - 🥅 Próximos estudos: Mongo DB e React Native
-- ⭐ Atualmente trabalho: <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
 
 
  ## ⭐ Meus status no Github
