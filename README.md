@@ -1,7 +1,7 @@
 # Olá meu nome é Victor Miranda Balduino 👋
 
 - 🔭 Hoje trabalho como Full Stack
-- ⭐ Atualmente trabalho: <a href="[https://www.directvgo.com/br/?utm_source=google&utm_medium=cpc&utm_campaign=GOOGLE-CONV-CONV_SITE-BRAND_PURA&utm_content=BR-AS-NA-EXATA-SCH-TEXT-NA-NA-DE_UM_GO&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCap4I8pVBxuIFsYBhJ3I7qDrMLiDdShv3MUgJlHwdhpWmmoJsI-zWQaAs4iEALw_wcB](https://www.sky.com.br/)">SKY TV – TV AO VIVO E STREAMING<a>
+- ⭐ Atualmente trabalho: <a href="https://www.sky.com.br/">SKY TV – TV AO VIVO E STREAMING<a>
 - 🌱 Estudando: Angular, Typescript, Laravel e Ionic
 - 🥅 Próximos estudos: Mongo DB e React Native
 
