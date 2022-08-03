@@ -2,8 +2,8 @@
 
 - 🔭 Hoje trabalho como Full Stack
 - ⭐ Atualmente trabalho: <a href="https://www.sky.com.br/">SKY TV – TV AO VIVO E STREAMING<a>
-- 🌱 Estudando: Angular, Typescript, Laravel e Ionic
-- 🥅 Próximos estudos: Mongo DB e React Native
+- 🌱 Estudando: React, Typescript, Laravel e Ionic
+- 🥅 Próximos estudos: React Native
 
 ## Já participei de projetos
 - <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
