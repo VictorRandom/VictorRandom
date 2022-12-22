@@ -4,6 +4,7 @@
 - ⭐ Atualmente trabalho: <a href="https://www.sky.com.br/">SKY TV – TV AO VIVO E STREAMING<a>
 - 🌱 Estudando: React, Typescript, Laravel e Ionic
 - 🥅 Próximos estudos: React Native
+- E alguns freelancers
 
 ## Já participei de projetos
 - <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
