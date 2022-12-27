@@ -4,12 +4,13 @@
 - ⭐ Atualmente trabalho: <a href="https://www.sky.com.br/">SKY TV – TV AO VIVO E STREAMING<a>
 - 🌱 Estudando: React, Typescript, React Native e Redux
 - 🥅 Próximos estudos: Next JS
-- E alguns freelancers
+
 
 ## Já participei de projetos
 - <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
 - <a href="https://condoease.com.br/">CondoEase – Portaria Virtual de Verdade<a>
-
+- E alguns freelancers
+ 
 
  ## ⭐ Meus status no Github
 <div align="center">
