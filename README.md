@@ -2,8 +2,8 @@
 
 - 🔭 Hoje trabalho como Full Stack
 - ⭐ Atualmente trabalho: <a href="https://www.sky.com.br/">SKY TV – TV AO VIVO E STREAMING<a>
-- 🌱 Estudando: React, Typescript, Laravel e Ionic
-- 🥅 Próximos estudos: React Native
+- 🌱 Estudando: React, Typescript, React Native e Redux
+- 🥅 Próximos estudos: Next JS
 - E alguns freelancers
 
 ## Já participei de projetos
