@@ -1,6 +1,6 @@
 # Olá meu nome é Victor Miranda Balduino 👋
 
-- 🔭 Hoje trabalho como Full Stack
+- 🔭 Hoje trabalho como Front-end
 - ⭐ Atualmente trabalho: <a href="https://www.sky.com.br/">SKY TV – TV AO VIVO E STREAMING<a>
 - 🌱 Estudando: React, Typescript, React Native e Redux
 - 🥅 Próximos estudos: Next JS
