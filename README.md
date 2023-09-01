@@ -9,6 +9,7 @@
 ## Já participei de projetos
 - <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
 - <a href="https://condoease.com.br/">CondoEase – Portaria Virtual de Verdade<a>
+- <a href="http://meconta.labnube.com.br/">Me Conta<a>
 - E alguns freelancers
  
 
