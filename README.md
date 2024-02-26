@@ -7,6 +7,8 @@
 
 
 ## Projects I worked
+- <a href="https://apps.apple.com/br/app/me-conta-app/id6449380049">Me Conta - APP IOS<a>
+- <a href="https://play.google.com/store/apps/details?id=com.MeConta.MeConta&hl=en">Me Conta - APP ANDROID<a>
 - <a href="https://www.geodata.com.br/">Geodata – Agricultura de Informação – Tecnologia em Agricultura de Precisão<a>
 - <a href="https://condoease.com.br/">CondoEase – Portaria Virtual de Verdade<a>
 - <a href="https://apps.apple.com/br/app/me-conta-app/id6449380049">Me Conta<a>
