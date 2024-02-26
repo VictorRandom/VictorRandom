@@ -1,7 +1,7 @@
 # Hello my name is Victor Miranda Balduino 👋
 
 - 🔭 Full Stack developer - Frontend Specialist
-- ⭐ My actual job : <a href="https://www.sky.com.br/">SKY TV – TV AO VIVO E STREAMING<a>
+- ⭐ My actual job : <a href="https://www.skymais.com.br/home/main">SKY TV – TV AO VIVO E STREAMING<a>
 - 🌱 Main techs: Laravel, NodeJS, ReactJS, Javascript, Typescript, React Native, MySQL and Redux
 - 🥅 Studying: Next JS, Solid JS, Tailwind and Pyhton.
 
